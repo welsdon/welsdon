@@ -17,7 +17,7 @@ Since then I've been focussing on creating a more agile work environment for our
 
 ### Connect with me:
 
-[LinkedIn](https://linkedin.com/willem-elsdon
+[My LinkedIn](https://linkedin.com/willem-elsdon)
 
 
 
