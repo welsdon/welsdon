@@ -3,7 +3,7 @@
 # Hi there, I'm Willem 👋 
 
 
-### I'm an engineer with over three years of experience (a lot I know). Most of my career has been spent working on large scale systems currated for the U.S governement. My roles have focussed primarily on system level software testing as well as Model Based Systems Engineering. 
+**I'm an engineer with over three years of experience (a lot I know). Most of my career has been spent working on large scale systems currated for the U.S governement. My roles have focussed primarily on system level software testing as well as Model Based Systems Engineering.**
 
 I started off writing, updating, and executing manual procedures. In doing so I rapidly gained knowledge of the system.__
 From there I moved on to working with CameoEA, taking on the role of MBSE Administrator. We revamped and delivered the model to the customer where it was approved. Following that stint, I was needed back at the test team and continued testing, this time with a focus on Scrum master. __
