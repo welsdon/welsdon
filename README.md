@@ -2,39 +2,20 @@
 
 # Hi there, I'm Willem 👋 
 
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCDCHcqyeQgJ-jVSd6VJkbCw?logo=youtube&logoColor=red&style=for-the-badge)][youtube]
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
 
-[![Visual Studio Marketplace Rating (Stars)](https://img.shields.io/visual-studio-marketplace/stars/codestackr.codestackr-theme?label=codeSTACKr%20VS%20Code%20Theme&logo=visualstudiocode&logoColor=ff652f&style=for-the-badge)](https://marketplace.visualstudio.com/items?itemName=codestackr.codestackr-theme)
-[![Become A VS Code SuperHero](https://img.shields.io/badge/-Become%20A%20VS%20Code%20SuperHero%20%E2%86%92-gray.svg?colorB=ff652f&style=for-the-badge)](https://vsCodeHero.com)
+## I'm an engineer with over three years of experience (a lot I know). Most of my career has been spent working on large scale systems currated for the U.S governement. My roles have focussed primarily on system level software testing as well as Model Based Systems Engineering. I started off writing, updating, and executing manual procedures. In doing so I rapidly gained knowledge of the system. From there I moved on to working with CameoEA, taking on the role of MBSE Administrator. We revamped and delivered the model to the customer where it was approved. Following that stint, I was needed back at the test team and continued testing, this time with a focus on Scrum master. Since then I've been focussing on creating a more agile work environment for our test team, something I believe is slowly but surely happening.
 
-
-## I'm an egineer, 
-
-- 🔭 Check out my VS Code course: [Become A VS Code SuperHero!][course]!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Learn more about web3
-- ⚡ Fun fact: I love to draw and play guitar / drums
-- 😻 Check out the NFT collection I created: [CodeCats](https://opensea.io/collection/codecats?search[sortAscending]=true&search[sortBy]=PRICE&search[toggles][0]=BUY_NOW)
+- 🔭 I'm currently working on improving my scripting and coding skills. Gotta start somewhere!
+- 🌱 I’m currently learning a lot of things. Primarily related to my current Scrum Master role.
+- 👯 I’m looking to start getting more involved in projects like this. Something I can continuously improve on and track progress. Also, I hope to use this as a supplementary document for any job searches or recruiters who may be interested.
+- 🥅 2023/2024 Goals: Become proficient at VS Code and start to learn a programming language!
+- ⚡ Fun fact: I love motorsports, especially Formula 1.
 
 ### Connect with me:
 
-[![website](./img/globe-light.svg)](https://codestackr.com#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://codestackr.com#gh-dark-mode-only)
+[![website](./img/linkedin-light.svg)](https://linkedin.com/in/willem-elsdon#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/willem-elsdon#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/youtube-light.svg)](https://youtube.com/codestackr#gh-light-mode-only)
-[![website](./img/youtube-dark.svg)](https://youtube.com/codestackr#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/codestackr#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/codestackr#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/codeSTACKr#gh-dark-mode-only)
 
 ### Languages and Tools:
 
