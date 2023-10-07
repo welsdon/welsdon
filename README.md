@@ -19,15 +19,9 @@ Since then I've been focussing on creating a more agile work environment for our
 
 [My LinkedIn](https://linkedin.com/willem-elsdon)
 
-
-</details>
-
 <details>
   <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="Willem's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=welsdon&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
 </details>
-
-
-[linkedin]: https://linkedin.com/in/codeSTACKr
