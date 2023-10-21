@@ -17,7 +17,7 @@ Since then I've been focussing on creating a more agile work environment for our
 
 ### Connect with me:
 
-[My LinkedIn](https://linkedin.com/willem-elsdon)
+[My LinkedIn](https://linkedin.com/in/willem-elsdon)
 
 <details>
   <summary>:zap: GitHub Stats</summary>
