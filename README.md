@@ -28,4 +28,4 @@ I created this GitHub to use LaTeX to create documents. I also want to expose my
 
 <!--[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/artist/6hyCmqlpgEhkMKKr65sFgI)-->
 
-<img src="https://komarev.com/ghpvc/?username=madushadhanushka&color=brightgreen" alt="watching_count" />
+<img src="https://widgetbite.com/stats/welsdon" alt="watching_count" />
