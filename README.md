@@ -28,5 +28,5 @@ I created this GitHub to use LaTeX to create documents. I also want to expose my
 <!--[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/artist/6hyCmqlpgEhkMKKr65sFgI)-->
 <img src="https://komarev.com/ghpvc/?username=welsdon&color=brightgreen" alt="watching_count" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=madushadhanushka&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=welsdon&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
