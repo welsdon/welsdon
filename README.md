@@ -13,7 +13,7 @@ I created this GitHub to use LaTeX to create documents. I also want to expose my
 
 ### Connect with me:
 
-[My LinkedIn](https://linkedin.com/in/willem-elsdon)
+<a href="https://www.linkedin.com/in/willem-elsdon/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 <details>
   <summary>:zap: GitHub Stats</summary>
