@@ -14,7 +14,6 @@ I created this GitHub to use LaTeX to create documents. I also want to expose my
 ### Connect with me:
 
 <a href="https://www.linkedin.com/in/willem-elsdon/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://open.spotify.com/user/gjxsaskvh2n1nizazyi2cttxg?si=a034567a9e3e45d2" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
 <img src="https://komarev.com/ghpvc/?username=welsdon&color=brightgreen" alt="watching_count" />
 
 <img src="https://myreadme.vercel.app/api/embed/welsdon?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
