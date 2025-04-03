@@ -17,7 +17,7 @@ I created this GitHub to use LaTeX to create documents. I also want to expose my
 <img src="https://komarev.com/ghpvc/?username=welsdon&color=brightgreen" alt="watching_count" />
 
 
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+<img src="https://readme-jokes-welsdons-projects.vercel.app/)" alt="Jokes Card" />
 
 
 
