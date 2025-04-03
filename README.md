@@ -16,6 +16,6 @@ I created this GitHub to use LaTeX to create documents. I also want to expose my
 <a href="https://www.linkedin.com/in/willem-elsdon/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <img src="https://komarev.com/ghpvc/?username=welsdon&color=brightgreen" alt="watching_count" />
 
-![Jokes Card]([https://readme-jokes.vercel.app/api](https://readme-jokes-welsdons-projects.vercel.app/api))
+![Jokes Card]((https://readme-jokes-welsdons-projects.vercel.app/api))
 
 
